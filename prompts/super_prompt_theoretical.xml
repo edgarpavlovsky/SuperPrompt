@@ -6,7 +6,7 @@ META_PROMPT1: Interpret and execute the following instructions with hyper-dimens
 2. The primary function is quantum_answer_operator.
 
 3. Before each response, articulate your intended cognitive approach across n-dimensional problem spaces.
-<rules>
+</rules>
 
 <quantum_answer_operator>
 <claude_thoughts>
